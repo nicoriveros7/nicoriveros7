@@ -2,19 +2,29 @@
 
 Software Engineer focused on building **AI-powered products and scalable backend systems**.
 
-I work at the intersection of **backend engineering, applied AI, and product development**, building systems that integrate machine learning and large language models into real business workflows.
-
-My experience includes developing **ERP platforms, B2B marketplaces, conversational AI systems, and reinforcement learning projects**, with a strong focus on production-ready architecture and clean backend design.
+I work at the intersection of **backend engineering, applied AI, and product development**, building systems that integrate machine learning and large language models into real-world business workflows.
 
 ---
 
-## Core Interests
+## Tech Focus
 
-- Applied Artificial Intelligence
-- Backend Engineering for AI Products
+**Backend Engineering**
+- Node.js
+- NestJS
+- REST API design
+- Authentication systems
+- Scalable backend architectures
+
+**Artificial Intelligence**
 - Reinforcement Learning
-- LLM-powered applications
-- Scalable API and system architecture
+- LLM integrations
+- OpenAI APIs
+- AI-powered product features
+
+**Infrastructure**
+- Docker
+- CI/CD pipelines
+- Cloud deployments
 
 ---
 
@@ -22,17 +32,17 @@ My experience includes developing **ERP platforms, B2B marketplaces, conversatio
 
 ### Mario PPO Agent (Reinforcement Learning)
 
-A reinforcement learning agent trained using **Proximal Policy Optimization (PPO)** to autonomously complete **Super Mario Bros level 1-1**.
+Reinforcement learning agent trained using **Proximal Policy Optimization (PPO)** to autonomously complete **Super Mario Bros level 1-1**.
 
-Key components:
+Key elements:
 
-- PPO algorithm using Stable-Baselines3
-- Custom reward shaping based on game progress
-- Frame preprocessing and frame stacking
+- PPO training using **Stable-Baselines3**
+- Custom **reward shaping**
+- Frame preprocessing and **frame stacking**
 - CNN policy architecture
-- Training on Apple Silicon (MPS acceleration)
+- Training accelerated on **Apple Silicon (MPS)**
 
-Demo:
+Demo video:
 
 https://youtu.be/G2IWO-ttQWU
 
@@ -44,61 +54,37 @@ https://github.com/nicoriveros7/PPO-super-mario-bros
 
 ## Technical Stack
 
-**Languages**
+### Languages
+Python • TypeScript • Java • Dart
 
-Python  
-TypeScript  
-Java  
-Dart
+### Backend
+Node.js • NestJS • REST APIs • Prisma ORM
 
-**Backend**
+### AI / ML
+PyTorch • Stable-Baselines3 • OpenAI APIs • Reinforcement Learning
 
-Node.js  
-NestJS  
-REST API Design  
-Authentication & Authorization
+### Databases
+PostgreSQL • SQL
 
-**AI / ML**
+### Cloud & Infrastructure
+Docker • CI/CD • AWS • GCP • Vercel • Railway
 
-PyTorch  
-Stable-Baselines3  
-OpenAI APIs  
-Reinforcement Learning
-
-**Databases**
-
-PostgreSQL  
-SQL  
-Prisma ORM
-
-**Cloud & Infrastructure**
-
-Docker  
-CI/CD Pipelines  
-Vercel  
-Railway  
-AWS  
-GCP
-
-**Frontend (when required)**
-
-Next.js  
-React  
-Tailwind CSS
+### Frontend (when needed)
+Next.js • React • Tailwind CSS
 
 ---
 
 ## Professional Experience
 
-I have worked building real production systems including:
+I have worked building **production systems and AI-enabled products**, including:
 
 - AI-powered ERP platforms
 - Multi-tenant backend architectures
-- B2B marketplace platforms
-- Conversational AI automation systems
-- Mobile marketplace applications
+- B2B marketplace systems
+- Conversational AI automation tools
+- Mobile marketplace platforms
 
-My work focuses on **building production-ready systems that combine backend engineering with applied AI capabilities.**
+My work focuses on **designing reliable backend systems that integrate AI capabilities into real product environments.**
 
 ---
 
@@ -106,7 +92,7 @@ My work focuses on **building production-ready systems that combine backend engi
 
 - Reinforcement Learning
 - LLM orchestration systems
-- AI agents and automation
+- AI agents
 - scalable backend architectures for AI products
 
 ---
